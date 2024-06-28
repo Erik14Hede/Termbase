@@ -42,5 +42,13 @@
         "pos": "adjective",
         "feature": "files",
         "comment": "Hello World."
+    },
+    {
+        "word": "Erik",
+        "definition": "Greatest human on earth",
+        "usage": "Preferred",
+        "pos": "noun",
+        "feature": "world",
+        "comment": "Look at me, I'm a comment."
     }
 ]
