@@ -1,0 +1,214 @@
+[
+  {
+    "ID": "1",
+    "Definition": "A private space for each individual user. To set up an account, a username, password, and/or email are required. Can also refer to an email account.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "account",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Konto",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "2",
+    "Definition": "Can be set to \"Active\" or \"Deactivated\"",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "account status",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Kontostatus ",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "3",
+    "Definition": "For posts, a feature that asks readers to state that they have read the post a response button and function.",
+    "Feature": "News",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "acknowledge",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "bestätigen",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      }
+    ]
+  },
+  {
+    "ID": "4",
+    "Definition": "Allows users to acknowledge that this post has been read. Typically, the acknowledgment feature is used for mandatory information that needs to be acknowledged by the user that it was read. For example, security-relevant information.",
+    "Feature": "News",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "acknowledgement",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Lesebestätigung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "5",
+    "Definition": "[posts] column header - Indicates additional options, such as Edit and Delte; also used as a tooltip for an elipses (...) in a cloumn that indicates more options.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "actions",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Optionen",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "6",
+    "Definition": "To put an option, mechanism (toggle, etc.) or system into action. Can also be used with a variety for other terms, like \"users\", \"access, \"permissions\", \"settings\", and so forth.",
+    "Feature": "Other",
+    "Comment": "We don't use enable anymore to avoid ableist language.",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "activate",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "aktivieren",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "en-US",
+        "term": "enable",
+        "Usage": "Forbidden",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "",
+        "Usage": "",
+        "POS": ""
+      }
+    ]
+  },
+  {
+    "ID": "7",
+    "Definition": "Use activation when a change immediately takes effect. If you are giving someone the possibility to do something (such as turning on the ability for users to delete their chat messages), use enable/disable instead.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "activation",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Aktivierung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "8",
+    "Definition": "[Dashboard and analytics] An active user is a user that has accessed the App at least once during a selected date range. See \"engaged user.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "active user",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "aktiver Nutzer",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "9",
+    "Definition": "Activity of certain spaces or users",
+    "Feature": "Analytics",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "activity",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Aktivität",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "10",
+    "Definition": "\"Add\" should be used when the user can put something that already exists in a new place. For example, they have the URL for an app and they add it to the platform. \"Create\" should be used when users must write or enter something new, that they don't select from or don't already have.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "add",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "hinzufügen",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      }
+    ]
+  }
+]
