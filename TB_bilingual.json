@@ -122,13 +122,8 @@
         "term": "aktivieren",
         "Usage": "Preferred",
         "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
       }
+      
     ]
   },
   {
@@ -294,13 +289,8 @@
         "term": "allow",
         "Usage": "Preferred",
         "POS": "Verb"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
+      }
+      ,
       {
         "lang": "de-DE",
         "term": "erlauben",
@@ -878,13 +868,8 @@
         "term": "browser",
         "Usage": "Preferred",
         "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
+      }
+      ,
       {
         "lang": "de-DE",
         "term": "Browser",
@@ -910,13 +895,8 @@
         "term": "button",
         "Usage": "Preferred",
         "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
+      }
+      ,
       {
         "lang": "de-DE",
         "term": "Schaltfläche",
@@ -1162,13 +1142,8 @@
         "term": "alert",
         "Usage": "Preferred",
         "POS": "Verb"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
+      }
+      ,
       {
         "lang": "de-DE",
         "term": "informieren",
@@ -1626,13 +1601,8 @@
         "term": "anmelden",
         "Usage": "Preferred",
         "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
       }
+      
     ]
   },
   {
@@ -1658,13 +1628,8 @@
         "term": "Anmeldung",
         "Usage": "Preferred",
         "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
       }
+      
     ]
   },
   {
@@ -1690,13 +1655,8 @@
         "term": "abmelden",
         "Usage": "Preferred",
         "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
       }
+      
     ]
   },
   {
@@ -2726,13 +2686,8 @@
         "term": "complete",
         "Usage": "Preferred",
         "POS": "Verb"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
+      }
+      ,
       {
         "lang": "de-DE",
         "term": "vervollständigen",
@@ -3130,13 +3085,8 @@
         "term": "custom",
         "Usage": "Preferred",
         "POS": "Adjective"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
+      }
+      ,
       {
         "lang": "de-DE",
         "term": "benutzerdefiniert",
@@ -3222,13 +3172,8 @@
         "term": "customization",
         "Usage": "Preferred",
         "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
+      }
+      ,
       {
         "lang": "de-DE",
         "term": "Aussehen und App",
@@ -3326,13 +3271,8 @@
         "term": "deaktivieren",
         "Usage": "Preferred",
         "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
       }
+      
     ]
   },
   {
@@ -3762,13 +3702,8 @@
         "term": "per Drag-and-Drop ziehen/verschieben",
         "Usage": "Preferred",
         "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
       }
+      
     ]
   },
   {
@@ -3800,19 +3735,9 @@
         "term": "Dropdown-Menü",
         "Usage": "Preferred",
         "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
       }
+      
+      
     ]
   },
   {
@@ -4598,13 +4523,8 @@
         "term": "hover over",
         "Usage": "Preferred",
         "POS": "Verb"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
+      }
+      ,
       {
         "lang": "de-DE",
         "term": "den Mauszeiger über [xyz] bewegen",
@@ -4702,13 +4622,8 @@
         "term": "Bilder",
         "Usage": "Preferred",
         "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
       }
+      
     ]
   },
   {
@@ -6166,13 +6081,8 @@
         "term": "öffnen",
         "Usage": "Preferred",
         "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
       }
+      
     ]
   },
   {
@@ -6650,13 +6560,8 @@
         "term": "profile menu",
         "Usage": "Preferred",
         "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
+      }
+      ,
       {
         "lang": "de-DE",
         "term": "Profilmenü",
@@ -6914,13 +6819,8 @@
         "term": "wiederkehrend",
         "Usage": "Preferred",
         "POS": "Adjective"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
       }
+      
     ]
   },
   {
@@ -7006,13 +6906,8 @@
         "term": "sign in",
         "Usage": "Forbidden",
         "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
       }
+      
     ]
   },
   {
@@ -7466,13 +7361,8 @@
         "term": "select",
         "Usage": "Preferred",
         "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
+      }
+      ,
       {
         "lang": "de-DE",
         "term": "auswählen",
@@ -7497,12 +7387,6 @@
         "lang": "en-US",
         "term": "choose",
         "Usage": "Preferred",
-        "POS": ""
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
         "POS": ""
       },
       {
