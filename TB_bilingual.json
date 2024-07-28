@@ -3336,38 +3336,6 @@
     ]
   },
   {
-    "ID": "160",
-    "Definition": "A preselected option, a pre-designed value, or setting when no alternative, value, or setting is not specified by the user. ",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "default",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "standardmäßig",
-        "Usage": "Permissible",
-        "POS": "Adjective"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Standard",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
     "ID": "161",
     "Definition": "The default language is used for app content that is not available in the language of the user profile. By providing content in the default language, you ensure that users see the app content in an alternative language of your choice.",
     "Feature": "Content",
