@@ -5476,6 +5476,12 @@
         "POS": "Adverb"
       },
       {
+        "lang": "en-US",
+        "term": "continue",
+        "Usage": "forbidden",
+        "POS": "Adverb"
+      },
+      {
         "lang": "de-DE",
         "term": "weiter",
         "Usage": "Preferred",
