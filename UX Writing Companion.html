@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Editor with Guidelines</title>
+    
+    
+</head>
+<body>
+  <h2>UX Writing Companion</h2>
+    <div class="container">
+      <h2>Guidelines</h2>
+        <div class="dropdowns">
+            <select id="guidelinesSelect" onchange="updateSecondaryDropdown(); clearOutput()">
+                <option value="general">General</option>
+                <option value="buttons">Buttons</option>
+                <option value="checkbox">Checkbox</option>
+                <option value="emptyState">Empty State</option>
+                <option value="errorMessages">Error Messages</option>
+                <option value="successMessages">Success Messages</option>
+                <option value="textArea">Text Area</option>
+                <option value="textInputField">Text Input Field</option>
+                <option value="toggles">Toggles</option>
+                <option value="tooltips">Tooltips</option>
+            </select>
+            <select id="secondaryGuidelinesSelect" style="display: none;" onchange="clearOutput()"></select>
+        </div>
+        <div id="textInput" contenteditable="true"></div>
+        <div class="buttons">
+            <button onclick="checkText()">Check Text</button>
+            <button onclick="clearText()">Clear</button>
+        </div>
+        <div id="output"></div>
+        <div id="wordPane">
+          <h2>Termbase</h2>
+          <div>Search:
+<input type="radio" id="searchTerms" name="searchType" value="terms" checked>
+<label for="searchTerms">Terms only</label>
+<input type="radio" id="searchBoth" name="searchType" value="both">
+                    <label for="searchBoth">Terms and Definitions</label>
+                </div>
+            <input type="text" id="searchBar" oninput="searchWordList()" placeholder="Search termbase ...">
+            <div id="wordList"></div>
+            <div id="wordListPagination"></div>
+        </div>
+        <div id="termDetails">
+            <h3>Term Details</h3>
+        </div>
+        <div id="contentMemoryPane">
+            <h2>Content Memory</h2>
+          <div>
+        <input type="radio" id="englishLang" name="languageSelect" value="en" checked>
+        <label for="englishLang">English</label>
+        <input type="radio" id="germanLang" name="languageSelect" value="de">
+        <label for="germanLang">German</label>
+    </div>
+            <input type="text" id="contentMemorySearchBar" oninput="searchContentMemory()" placeholder="Search content memory ...">
+            <input type="checkbox" id="regexToggle" onchange="searchContentMemory()">
+          <label for="regexToggle">Use Regular Expression</label>
+            <table id="contentMemoryTable">
+                <thead>
+                    <tr>
+                        <th>Phrase</th>
+                        <th>Percentage</th>
+                        <th>Feature</th>
+                    </tr>
+                </thead>
+                <tbody id="contentMemoryList"></tbody>
+            </table>
+            <div id="contentMemoryPagination"></div>
+        </div>
+    </div>
+    
+</body>
+</html>
