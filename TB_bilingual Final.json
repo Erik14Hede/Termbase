@@ -1,5 +1,5 @@
 [
-  {
+    {
     "ID": "1",
     "Definition": "A private space for each individual user. To set up an account, a username, password, and/or email are required. Can also refer to an email account.",
     "Feature": "User management",
@@ -14,178 +14,6 @@
       {
         "lang": "de-DE",
         "term": "Konto",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "2",
-    "Definition": "Can be set to \"Active\" or \"Deactivated\"",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "account status",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Kontostatus ",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "3",
-    "Definition": "For posts, a feature that asks readers to state that they have read the post a response button and function. ",
-    "Feature": "News",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "acknowledge",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "bestätigen",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      }
-    ]
-  },
-  {
-    "ID": "4",
-    "Definition": "Allows users to acknowledge that this post has been read. Typically, the acknowledgment feature is used for mandatory information that needs to be acknowledged by the user that it was read. For example, security-relevant information.",
-    "Feature": "News",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "acknowledgement",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Lesebestätigung",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "5",
-    "Definition": "[posts] column header - Indicates additional options, such as Edit and Delte;\" also used as a tooltip for an elipses (...) in a cloumn that indicates more options.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "actions",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Optionen",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "6",
-    "Definition": "To put an option, mechanism (toggle, etc.) or system into action. Can also be used with a variety for other terms, like \"users\", \"access, \"permissions\", \"settings\", and so forth.",
-    "Feature": "Other",
-    "Comment": "We don't use enable anymore to avoid ableist language.",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "activate",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "en-US",
-        "term": "enable",
-        "Usage": "Forbidden",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "aktivieren",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      }
-    ]
-  },
-  {
-    "ID": "7",
-    "Definition": "Use activation when a change immediately takes effect. If you are giving someone the possibility to do something (such as turning on the ability for users to delete their chat messages), use enable/disable instead.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "activation",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Aktivierung",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "8",
-    "Definition": "[Dashboard and analytics] An active user is a user that has accessed the App at least once during a selected date range. See \"engaged user.",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "active user",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "aktiver Nutzer",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "9",
-    "Definition": "Activity of certain spaces or users",
-    "Feature": "Analytics",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "activity",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Aktivität",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -208,1886 +36,6 @@
         "term": "hinzufügen",
         "Usage": "Preferred",
         "POS": "Verb"
-      }
-    ]
-  },
-  {
-    "ID": "11",
-    "Definition": "[not sure if this tem is actually in use; Term List shows as preferred] the portal that admins, editors and so on use to configure, add or manage something in the platform",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "admin menu",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Admin-Menü",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "12",
-    "Definition": "when talking about Staffbase user roles, use the full word \"administrator\"; \"admin\" is acceptable if space is limited",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "administrator",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "admin",
-        "Usage": "Permissible",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Administrator",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Admin",
-        "Usage": "Permissible",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "13",
-    "Definition": "Short for \"Artificial Intelligence\" and \"Künstliche Intelligenz\" respectivly.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "AI",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "KI",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "14",
-    "Definition": "Grant permissions or ability. Note that a good alternative is \"you can\" - Example: \"This new app allows you to see metrics...\" -> \"With the new app, you can see metrics...\"",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "allow",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
-      {
-        "lang": "de-DE",
-        "term": "erlauben",
-        "Usage": "Permissible",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "ermöglichen",
-        "Usage": "Permissible",
-        "POS": "Verb"
-      }
-    ]
-  },
-  {
-    "ID": "16",
-    "Definition": "[nav tab label] Studio Overview of the tool for measuring engagement and content success.",
-    "Feature": "Analytics",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Analytics Dashboard",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Dashboard für Statistiken\n",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "17",
-    "Definition": "[do we use only \"analytics\"?] [TL] component to track special data for the analytics tool",
-    "Feature": "Analytics",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "analytics metrics",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Metriken für Statistiken",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "18",
-    "Definition": "Do not use without approval from the legal team and talking with developers. Only use anonymous if data can never be traced back to the user. For most of our features, we’ll use “confidential” instead of anonymous.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "anonymous",
-        "Usage": "Preferred",
-        "POS": "Adjective"
-      },
-      {
-        "lang": "de-DE",
-        "term": "anonym",
-        "Usage": "Preferred",
-        "POS": "Adjective"
-      }
-    ]
-  },
-  {
-    "ID": "19",
-    "Definition": "Use to refer to mobile apps only. Don't use \"web app\" since this is not a commonly used term for the average person. Also, app and/or intranet. Use: How Users will view ... in the App ; employee app; mobile users\n",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "app",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "App",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "20",
-    "Definition": "With the app lock, the app can only be opened if the mobile device is secured with a code. The app lock is activated company-wide by your Customer Success Manager. Users can unlock text each day on a quiz calendar. Also used in email.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "app lock",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "App-Sperre",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "21",
-    "Definition": "For applying filter options.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "apply",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "übernehmen",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      }
-    ]
-  },
-  {
-    "ID": "22",
-    "Definition": "Action button label used in File Manager and Content Designer for inserting a link.",
-    "Feature": "Files",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "apply",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "anwenden",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      }
-    ]
-  },
-  {
-    "ID": "23",
-    "Definition": "[Action label] Used with Comments; can be used in other instances for granting permissions.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "approve",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "freigeben ",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      }
-    ]
-  },
-  {
-    "ID": "24",
-    "Definition": "Text, images, and other media (see \"post\")",
-    "Feature": "News",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "article",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Artikel",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "25",
-    "Definition": "For post appointed to a campaign for instance. See 'assignment' as well.",
-    "Feature": "Campaigns",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "assign",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "zuordnen",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      }
-    ]
-  },
-  {
-    "ID": "26",
-    "Definition": "For appointing users to groups for instance.",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "assign",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "zuweisen",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      }
-    ]
-  },
-  {
-    "ID": "27",
-    "Definition": "For tokens that are 'assigned' to certain content.",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "assign",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "angeben",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      }
-    ]
-  },
-  {
-    "ID": "28",
-    "Definition": "Used with campaigns. User can assign an existing post to a campaign. Also used with members to mandatory and conditional groups. Channels are also assigned to news pages. Contributors can be assigned to Journeys.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "assignment",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Zuordnung",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "29",
-    "Definition": "Users who will see a scheduled post or content. Can be public or private/targeted to specific users.",
-    "Feature": "Editorial calendar",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "audience",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Zielgruppe",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "30",
-    "Definition": "Button for voice calling a person from their profile page.",
-    "Feature": "User management",
-    "Comment": "Proposed",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "audio call",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Sprachanruf",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "31",
-    "Definition": "The process of verifying who a user is. Ensures the identity of a user who requests access.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "authentication",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Authentifizierung",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "32",
-    "Definition": "See \"contributor\"",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "author",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "created by",
-        "Usage": "Permissible",
-        "POS": "Past participle"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Autor",
-        "Usage": "Permissible",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Erstellt von",
-        "Usage": "Preferred",
-        "POS": "Past participle"
-      }
-    ]
-  },
-  {
-    "ID": "33",
-    "Definition": "The process of verifying what users have access to. Ensures that the user who requests the access is eligible to access the info.",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "authorization",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Autorisierung",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "34",
-    "Definition": "The authorization token from the user's Twilio account.",
-    "Feature": "SMS",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "authorization token",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Authentifizierungstoken",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "35",
-    "Definition": "Only use when technically required, like for OAuth permissions, use “authorize.” Otherwise, use “let.”",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "authorize",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "autorisieren",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      }
-    ]
-  },
-  {
-    "ID": "36",
-    "Definition": "Only use when technically required, like for OAuth permissions, use “authorize.” Otherwise, use “let.”",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "authorized",
-        "Usage": "Preferred",
-        "POS": "Adjective"
-      },
-      {
-        "lang": "de-DE",
-        "term": "autorisiert",
-        "Usage": "Preferred",
-        "POS": "Adjective"
-      }
-    ]
-  },
-  {
-    "ID": "37",
-    "Definition": "The circular icon containing a user's initials, profile image or status.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "avatar",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Avatar",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "38",
-    "Definition": "button label: returns user to previous screen. Do not use to replace \"Cancel\"",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "back",
-        "Usage": "Preferred",
-        "POS": "Adverb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Zurück",
-        "Usage": "Preferred",
-        "POS": "Adverb"
-      }
-    ]
-  },
-  {
-    "ID": "39",
-    "Definition": "Reusable pieces of content used in editors",
-    "Feature": "Other",
-    "Comment": "Proposed",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "block",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Schnellbaustein",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "40",
-    "Definition": "You can also set a publishing freeze for the timeframe. The publishing freeze will suggest that editors consider rescheduling their posts, both in the editorial calendar and the Studio news editor.",
-    "Feature": "Editorial calendar",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "publishing freeze",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Sperrfrist",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "41",
-    "Definition": "The colors of a company's brand used for branding the app accordingly",
-    "Feature": "Customization",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "branding color",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Markenfarbe",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "42",
-    "Definition": "Program to allow people to view and browse web pages. When accessing Staffbase’s web app from mobile, refer to the ‘mobile browser’ not the app.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "browser",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
-      {
-        "lang": "de-DE",
-        "term": "Browser",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Internetbrowser",
-        "Usage": "Permissible",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "43",
-    "Definition": "Clickable page component.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "button",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
-      {
-        "lang": "de-DE",
-        "term": "Schaltfläche",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Button",
-        "Usage": "Forbidden",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "44",
-    "Definition": "Different features for planning content or creating scheduled quizzes.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "calendar",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Kalender",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "45",
-    "Definition": "The Calendars plugin allows you to create one or more calendars for your users directly within the app.",
-    "Feature": "Calendars",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "calender plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Kalender-Plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "46",
-    "Definition": "Feature that allows strategic planning, creation, mangement, and analysis of content.",
-    "Feature": "Campaigns",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Campaign",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Kampagne",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "47",
-    "Definition": "Use to negate the primary action. It is okay to use other terms if it better explains the negative action.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "cancel",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Abbrechen",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      }
-    ]
-  },
-  {
-    "ID": "48",
-    "Definition": "Record of user account activities.",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "changelog",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Änderungsprotokoll",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "49",
-    "Definition": "A channel is like a news segment in a newspaper or, in this case, the news page. Channels allow very fine, granular visibility settings as to who is allowed to see the posts within a specific channel in the app. \nSee \"post/news post\", as channels allow for specific types of posts. They're based on both theme and post-type.",
-    "Feature": "News",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "channel",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Kanal",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "50",
-    "Definition": "For different graphical depictions of data in analytics",
-    "Feature": "Analytics",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "chart",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Diagramm",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "51",
-    "Definition": "The alternative point of contact listed for customers after \"Staffbase Support\" in support articles",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Account Manager",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "52",
-    "Definition": "The menu that opens when a user clicks their avatar in the standalone Employee Email web app",
-    "Feature": "Email",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "account settings",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Kontoeinstellungen",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "53",
-    "Definition": "The address bar of a browser.",
-    "Feature": "Email",
-    "Comment": "Proposed",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "address bar",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Adressleiste",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "54",
-    "Definition": "The way an Employee Email add-in or extension tracks unique vs. repeat opens and clicks",
-    "Feature": "Email",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "aggregate",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "55",
-    "Definition": "E.g., when a notifcation informs the user about something.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "alert",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "en-US",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      },
-      {
-        "lang": "de-DE",
-        "term": "informieren",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "warnen",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      }
-    ]
-  },
-  {
-    "ID": "56",
-    "Definition": "Numbers and letters in a CSV file or data table ",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "alphanumeric characters",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "alphanumerische Zeichen",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "57",
-    "Definition": "An integration enriches or extends the functionalities within the Staffbase platform. This is done by either extending the functionalities in your employee app or intranet, or in the Studio. For example: linking or embedding external content, embedding login-protected external content, synchronizing content to and from an external source, making external applications or processes available within your employee app or intranet automating user lifecycle management\"",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "integration",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Integration",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "58",
-    "Definition": "The UI of our app.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "app interface",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "App-Oberfläche",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "59",
-    "Definition": "The tab of the Email Stats Page where you can segment engagement data for an individual sent email",
-    "Feature": "Email",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "breakdown",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "60",
-    "Definition": "Opened tabs inside a browser window",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "browser tab",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Browser-Tab",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "61",
-    "Definition": "Distribution lists uploaded via CSV or customized with the Employee Email web app ",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "distribution list",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Verteilerliste",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "62",
-    "Definition": "Distribution lists containing a set of contacts that changes automatically over time based on their attributes.",
-    "Feature": "User management",
-    "Comment": "Proposed",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "dynamic distribution lists",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "dynamische Verteilerliste",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "63",
-    "Definition": "Customizable and reusable rough copies of an email.",
-    "Feature": "User management",
-    "Comment": "Proposed",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "email template",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "E-Mail-Vorlage",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "64",
-    "Definition": "Files created and saved using the Email Designer that have not been sent out as emails yet",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "email draft",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "E-Mail-Entwurf",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "65",
-    "Definition": "Staffbase offers data centers in different countries to host your platform and data. In the Studio, you can check where your platform is hosted and your platform's base URL that you need to use for API authentication.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "hosting infrastructure",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Hosting-Infrastruktur",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "66",
-    "Definition": "Refers to the place of a data center where a costumers platform and data is stored.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "host",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "hosten",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      }
-    ]
-  },
-  {
-    "ID": "67",
-    "Definition": "people who use Staffbase on iOS and Android devices",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "mobile user",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "mobile Nutzer",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "68",
-    "Definition": "In studio, refers to top nav bar. In mobile, to quicklings bar at the buttom.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "navigation bar",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Navigationsleiste",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "69",
-    "Definition": "A news page is like a newspaper or a social network, where new content is regularly published. The latest posts are always displayed at the top, which is why older posts gradually disappear from the newsfeed and the user’s radar. This means that the content has a short to medium lifespan.",
-    "Feature": "News",
-    "Comment": "Suggestion: renaming to News-Seite",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "news page",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Newsseite",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "70",
-    "Definition": "A profile picture makes a user profile more personal and helps new employees find their way around faster.",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "profile picture",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Profilbilder",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "71",
-    "Definition": "Metric used to track how long an email is held open by recipients.",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "read time",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "72",
-    "Definition": "The setting available when Shared views are enabled, allowing members of the same Group to either share or not share their Email Drafts by default",
-    "Feature": "Email",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "shared drafts",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "73",
-    "Definition": "The setting available when Shared views are enabled, allowing members of the same Group to either share or not share their sent emails by default",
-    "Feature": "Email",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "shared emails",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "74",
-    "Definition": "The setting that allows members of the same Group to automatically share their sent emails and/or their Email Drafts by default",
-    "Feature": "Email",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "shared views",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "75",
-    "Definition": "The main menu of the mobile ios app",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "sidebar",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "seitliches Menü",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "76",
-    "Definition": "You can add a blocker within the editorial calendar to include important company plans or communications. Blockers are visible to all editors.",
-    "Feature": "Editorial calendar",
-    "Comment": "DE: plural: \"Blocker\", dativ: \"Blockern\", gender: masculine",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "blocker",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Blocker",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "77",
-    "Definition": "For refering to the log in to different accounts like for employees, Google, SSO, etc.",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "sign in",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "en-US",
-        "term": "log in",
-        "Usage": "Forbidden",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "anmelden",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      }
-    ]
-  },
-  {
-    "ID": "78",
-    "Definition": "For refering to the log in to different accounts like for employees, Google, SSO, etc.",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "sign-in",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "log-in",
-        "Usage": "Forbidden",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Anmeldung",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      }
-    ]
-  },
-  {
-    "ID": "79",
-    "Definition": "For refering to the log out to different accounts like for employees, Google, SSO, etc.",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "sign out",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "en-US",
-        "term": "log out",
-        "Usage": "Forbidden",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "abmelden",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "",
-        "POS": ""
-      }
-    ]
-  },
-  {
-    "ID": "80",
-    "Definition": "For refering to the log out to different accounts like for employees, Google, SSO, etc.",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "sign-out",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "log-out",
-        "Usage": "Forbidden",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Abmeldung",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "81",
-    "Definition": "Percentage of total Opens where Read Time = 3-8 seconds (inclusive)",
-    "Feature": "Email",
-    "Comment": "proposed",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "skimmed",
-        "Usage": "Preferred",
-        "POS": "Past participle"
-      },
-      {
-        "lang": "de-DE",
-        "term": "überflogen",
-        "Usage": "Preferred",
-        "POS": "Past participle"
-      }
-    ]
-  },
-  {
-    "ID": "82",
-    "Definition": "Distribution lists containing a set of contacts that doesn't change.",
-    "Feature": "User management",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "static distribution list",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "statische Verteilerliste",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "83",
-    "Definition": "The Directory plugin allows you to create a directory of all active and pending users in your employee app. Using the Directory plugin, employees can access coworker's contact details, such as their phone number, email, or company role, if filled out in the user profile. In addition, users can also see a list of the most recent comments by the respective coworker.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Directory plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Verzeichnis-Plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "84",
-    "Definition": "The Chat plugin allows private one-on-one or group messaging within the app.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Chat plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Chat-Plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "85",
-    "Definition": "Surveys make it easy for users to engage and helps you gain valuable user insights on a regular basis. You can choose between a regularly scheduled survey rhythm, which allows you to gather insights on one topic over time, or a one-time survey.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Surveys plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Plugin für Befragungen",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "86",
-    "Definition": "With the Forms plugin, you can create customized forms for users to fill out and submit via the employee app. You can customize the contents, input types, and required fields to create a form that fits your needs perfectly.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Forms plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Plugin für Formulare",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "87",
-    "Definition": "The Quiz Calendar is a fun way for your company to engage users leading up to significant company events, milestones, or the holidays. You can set up custom quiz questions, images, or text that your users can unlock each day of the calendar.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Quiz Calender plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Quizkalender-Plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "88",
-    "Definition": "The Links plugin allows you to link to another website and place this link on the menu of your app. The Links plugin creates a bridge between your employee app and an external website, such as your company homepage. Opening a target-link using the Links plugin will navigate the user away from the employee app. For mobile users, the link opens in the mobile browser and for desktop users, it opens in a new tab.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Links plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Links-Plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "89",
-    "Definition": "An embedded page is a link to an external website that opens within your employee app. The link to an embedded page displays as an item in the app menu. When users click on the menu item, the external page will load within the app, as would a normal app page.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Embedded Pages plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Plugin für eingebettete Seiten",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "90",
-    "Definition": "Journeys allows you to guide employees on their individual journey at your organization. Create customized content and set an individual timeline to support employees with their new tasks.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Journeys plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Journeys-Plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "91",
-    "Definition": "The Calendars plugin allows you to create one or more calendars for your users directly within the app. These customizable calendars are a great way to keep employees up to date with company activities and important events. With the Calendars plugin, you can create not only company-wide calendars but also user-specific calendars, which support organization and collaboration within and across departments.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Calendars plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Kalender-Plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "92",
-    "Definition": "The Event Registration plugin allows you to create and manage detailed event registration pages. Add all the important details of an event to your event registration, such as time, date, and place, as well as a thorough description and capacity limit. Users will can see an overview of company events, register for events, and view upcoming and past events directly in the app.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Event Registration plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Plugin für Eventregistrierung",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "93",
-    "Definition": "The Maps plugin allows you to show your users specific locations on a map. The location appears as a pinpoint on the map. You can add a name and detailed description to each location. This enables you to give users access to important data even on the go, such as office, delivery, or store locations.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Maps plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Karten-Plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "94",
-    "Definition": "The Integrated Content plugin allows you to embed content more flexibly into your app and view external websites, while keeping the same look and feel of your app or intranet.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Integrated Content plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Plugin für integrierte Inhalte",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "95",
-    "Definition": "The Facebook Pages plugin allows you to embed a Facebook page in your employee app. This gives you the means to include employees who do not actively use Facebook in the company’s public-facing communications. Users open the embedded Facebook page by clicking on a menu point in the employee app, allowing users to browse the linked Facebook feed without leaving the app.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Facebook plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Facebook-Plugin",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "96",
-    "Definition": "To add any type of static content, in the same design and visual style as that of other widgets, use the Static Content widget. In this way, the content in the static content also has the same layout style options as the other widgets. You can experiment with background colors of this widget or simply choose the branding color of your app.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Static content widget",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Statischer-Inhalt-Widget",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "97",
-    "Definition": "To add contact information outside the employee directory, use the User Profile widget. This is useful if you want to show a contact, for example, on the Contact Us page. If the user profile contains details, such as location, department, job title, and so on, those are displayed.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "User Profile widget",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Nutzerprofil-Widget",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "98",
-    "Definition": "To add a selection of files, use the File List widget. Users can open or download these files. For example, if you have a page on Corporate Social Responsibility, place all related files, such as guidelines, activities planned for the year, and so on, on the file list.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "File List widget",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Dateiliste-Widget",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "99",
-    "Definition": "To add a box to call attention to particular information, warning, or a tip to your pages, use the Infobox widget. The colored box readily draws users’ attention to the content presented in it.",
-    "Feature": "Content",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "Infobox widget",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Infobox-Widget",
-        "Usage": "Preferred",
-        "POS": "Noun"
       }
     ]
   },
@@ -2292,6 +240,26 @@
     ]
   },
   {
+    "ID": "11",
+    "Definition": "[not sure if this tem is actually in use; Term List shows as preferred] the portal that admins, editors and so on use to configure, add or manage something in the platform",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "admin menu",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Admin-Menü",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
     "ID": "110",
     "Definition": "To add celebratory animations to your news posts that add a playful and engaging touch to your news posts, use the Animation widget. Enhance your posts with confetti, fireworks, balloons, or snow, and share the joy of good news or exciting announcements with your employees in a special way.",
     "Feature": "Content",
@@ -2487,6 +455,38 @@
         "lang": "de-DE",
         "term": "Chat-Konservation",
         "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "12",
+    "Definition": "when talking about Staffbase user roles, use the full word \"administrator\"; \"admin\" is acceptable if space is limited",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "administrator",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "en-US",
+        "term": "admin",
+        "Usage": "Permissible",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Administrator",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Admin",
+        "Usage": "Permissible",
         "POS": "Noun"
       }
     ]
@@ -2752,6 +752,26 @@
     ]
   },
   {
+    "ID": "13",
+    "Definition": "Short for \"Artificial Intelligence\" and \"Künstliche Intelligenz\" respectivly.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "AI",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "KI",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
     "ID": "130",
     "Definition": "For referring to the user's PC or device, e.g., \"upload from computer\".",
     "Feature": "Other",
@@ -2948,6 +968,38 @@
         "term": "Inhaltssprache",
         "Usage": "Preferred",
         "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "14",
+    "Definition": "Grant permissions or ability. Note that a good alternative is \"you can\" - Example: \"This new app allows you to see metrics...\" -> \"With the new app, you can see metrics...\"",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "allow",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "en-US",
+        "term": "",
+        "Usage": "",
+        "POS": ""
+      },
+      {
+        "lang": "de-DE",
+        "term": "erlauben",
+        "Usage": "Permissible",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "ermöglichen",
+        "Usage": "Permissible",
+        "POS": "Verb"
       }
     ]
   },
@@ -3400,6 +1452,26 @@
     ]
   },
   {
+    "ID": "16",
+    "Definition": "[nav tab label] Studio Overview of the tool for measuring engagement and content success.",
+    "Feature": "Analytics",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Analytics Dashboard",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Dashboard für Statistiken\n",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
     "ID": "160",
     "Definition": "A preselected option, a pre-designed value, or setting when no alternative, value, or setting is not specified by the user. ",
     "Feature": "Other",
@@ -3606,6 +1678,26 @@
       {
         "lang": "de-DE",
         "term": "Gerätetypen",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "17",
+    "Definition": "[do we use only \"analytics\"?] [TL] component to track special data for the analytics tool",
+    "Feature": "Analytics",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "analytics metrics",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Metriken für Statistiken",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -3860,6 +1952,26 @@
     ]
   },
   {
+    "ID": "18",
+    "Definition": "Do not use without approval from the legal team and talking with developers. Only use anonymous if data can never be traced back to the user. For most of our features, we’ll use “confidential” instead of anonymous.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "anonymous",
+        "Usage": "Preferred",
+        "POS": "Adjective"
+      },
+      {
+        "lang": "de-DE",
+        "term": "anonym",
+        "Usage": "Preferred",
+        "POS": "Adjective"
+      }
+    ]
+  },
+  {
     "ID": "180",
     "Definition": "Refers to different kinds of content editors.",
     "Feature": "User management",
@@ -4034,6 +2146,26 @@
       {
         "lang": "de-DE",
         "term": "Nutzer-Ansicht",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "19",
+    "Definition": "Use to refer to mobile apps only. Don't use \"web app\" since this is not a commonly used term for the average person. Also, app and/or intranet. Use: How Users will view ... in the App ; employee app; mobile users\n",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "app",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "App",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -4220,6 +2352,46 @@
     ]
   },
   {
+    "ID": "2",
+    "Definition": "Can be set to \"Active\" or \"Deactivated\"",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "account status",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Kontostatus ",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "20",
+    "Definition": "With the app lock, the app can only be opened if the mobile device is secured with a code. The app lock is activated company-wide by your Customer Success Manager. Users can unlock text each day on a quiz calendar. Also used in email.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "app lock",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "App-Sperre",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
     "ID": "200",
     "Definition": "The CK editor is the default editor of many Communications Control objects: Tasks, Ideas, Topics, Content (for self-defined content types without auto-publishing feature), and Stories.",
     "Feature": "Content",
@@ -4241,7 +2413,7 @@
   },
   {
     "ID": "201",
-    "Definition": "Used to refer to requests for maintenance requests in buildings or other physical structures; refers to Forms Plugin or Staddbase Connector for Power Automate.",
+    "Definition": "Used to refer to requests for maintenance requests in buildings or other physical structures; refers to Forms Plugin or Staffbase Connector for Power Automate.",
     "Feature": "Forms",
     "Comment": "",
     "Terms": [
@@ -4313,7 +2485,7 @@
       },
       {
         "lang": "de-DE",
-        "term": "an Screen ampassen",
+        "term": "an Screen anpassen",
         "Usage": "Preferred",
         "POS": "Verb"
       }
@@ -4408,6 +2580,26 @@
         "term": "Funnel-Phase",
         "Usage": "Preferred",
         "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "21",
+    "Definition": "For applying filter options.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "apply",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "übernehmen",
+        "Usage": "Preferred",
+        "POS": "Verb"
       }
     ]
   },
@@ -4600,6 +2792,26 @@
         "term": "iFrame",
         "Usage": "Preferred",
         "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "22",
+    "Definition": "Action button label used in File Manager and Content Designer for inserting a link.",
+    "Feature": "Files",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "apply",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "anwenden",
+        "Usage": "Preferred",
+        "POS": "Verb"
       }
     ]
   },
@@ -4816,6 +3028,26 @@
     ]
   },
   {
+    "ID": "23",
+    "Definition": "[Action label] Used with Comments; can be used in other instances for granting permissions.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "approve",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "freigeben ",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      }
+    ]
+  },
+  {
     "ID": "230",
     "Definition": "Refers to users and the stages in the tools, depending on their status as employees or members of an organization: pending, onboarding, removal, and so on. Should be 2 words as a noun. \"Life-cycle\" as an adjective.",
     "Feature": "Other",
@@ -5010,6 +3242,26 @@
       {
         "lang": "de-DE",
         "term": "Medien",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "24",
+    "Definition": "Text, images, and other media (see \"post\")",
+    "Feature": "News",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "article",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Artikel",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -5264,6 +3516,26 @@
     ]
   },
   {
+    "ID": "25",
+    "Definition": "For post appointed to a campaign for instance. See 'assignment' as well.",
+    "Feature": "Campaigns",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "assign",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "zuordnen",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      }
+    ]
+  },
+  {
     "ID": "250",
     "Definition": "Use in place of \"cell phone\" - can also inlcude watches and tablets.",
     "Feature": "Other",
@@ -5444,6 +3716,26 @@
     ]
   },
   {
+    "ID": "26",
+    "Definition": "For appointing users to groups for instance.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "assign",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "zuweisen",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      }
+    ]
+  },
+  {
     "ID": "260",
     "Definition": "A listing of all the latest posts in the app. As newer posts are published, older posts move to the bottom of the newsfeed and gradually disappear from the newsfeed.",
     "Feature": "Content",
@@ -5476,12 +3768,6 @@
         "POS": "Adverb"
       },
       {
-        "lang": "en-US",
-        "term": "continue",
-        "Usage": "forbidden",
-        "POS": "Adverb"
-      },
-      {
         "lang": "de-DE",
         "term": "weiter",
         "Usage": "Preferred",
@@ -5491,7 +3777,7 @@
   },
   {
     "ID": "262",
-    "Definition": "Use instead of “my” - “Your Files,” ‘Contact your CSM”. Avoid in error messages when possible. In German we use offer informal (du) and formal (Sie) for end-user facing content while only formal German for studio content.",
+    "Definition": "Use instead of “my” - “Your Files,” ‘Contact your CSM”. Avoid in error messages when possible. In German we offer informal (du) and formal (Sie) for end-user facing content while only formal German for studio content.",
     "Feature": "Other",
     "Comment": "",
     "Terms": [
@@ -5650,6 +3936,26 @@
         "term": "Objektberechtigung",
         "Usage": "Preferred",
         "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "27",
+    "Definition": "For tokens that are 'assigned' to certain content.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "assign",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "angeben",
+        "Usage": "Preferred",
+        "POS": "Verb"
       }
     ]
   },
@@ -5828,6 +4134,26 @@
       {
         "lang": "de-DE",
         "term": "geteilte Bibliothek",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "28",
+    "Definition": "Used with campaigns. User can assign an existing post to a campaign. Also used with members to mandatory and conditional groups. Channels are also assigned to news pages. Contributors can be assigned to Journeys.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "assignment",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Zuordnung",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -6046,6 +4372,26 @@
     ]
   },
   {
+    "ID": "29",
+    "Definition": "Users who will see a scheduled post or content. Can be public or private/targeted to specific users.",
+    "Feature": "Editorial calendar",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "audience",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Zielgruppe",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
     "ID": "290",
     "Definition": "[email] An open is triggered when a recipient loads your email and views the body of the message. The first time an email is opened by a specific recipient, it will trigger a Unique Open. Unique open rate is based on unique opens of the emails sent during the selected time frame",
     "Feature": "Email",
@@ -6240,6 +4586,46 @@
       {
         "lang": "de-DE",
         "term": "Plattform",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "3",
+    "Definition": "For posts, a feature that asks readers to state that they have read the post a response button and function. ",
+    "Feature": "News",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "acknowledge",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "bestätigen",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      }
+    ]
+  },
+  {
+    "ID": "30",
+    "Definition": "Button for voice calling a person from their profile page.",
+    "Feature": "User management",
+    "Comment": "Proposed",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "audio call",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Sprachanruf",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -6470,6 +4856,26 @@
     ]
   },
   {
+    "ID": "31",
+    "Definition": "The process of verifying who a user is. Ensures the identity of a user who requests access.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "authentication",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Authentifizierung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
     "ID": "310",
     "Definition": "Use for instructions regarding keystrokes on the keyboard. See AI project: \"To use AI Companion, press / .\"",
     "Feature": "Other",
@@ -6678,6 +5084,38 @@
         "term": "Quizkalender",
         "Usage": "Preferred",
         "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "32",
+    "Definition": "See \"contributor\"",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "author",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "en-US",
+        "term": "created by",
+        "Usage": "Permissible",
+        "POS": "Past participle"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Autor",
+        "Usage": "Permissible",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Erstellt von",
+        "Usage": "Preferred",
+        "POS": "Past participle"
       }
     ]
   },
@@ -6906,6 +5344,26 @@
     ]
   },
   {
+    "ID": "33",
+    "Definition": "The process of verifying what users have access to. Ensures that the user who requests the access is eligible to access the info.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "authorization",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Autorisierung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
     "ID": "330",
     "Definition": "Regular update of the product and its features.",
     "Feature": "Other",
@@ -7106,6 +5564,26 @@
     ]
   },
   {
+    "ID": "34",
+    "Definition": "The authorization token from the user's Twilio account.",
+    "Feature": "SMS",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "authorization token",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Authentifizierungstoken",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
     "ID": "340",
     "Definition": "Can be a \"reply\", but mostly used in Comments - can be posting simply an emoji",
     "Feature": "Surveys",
@@ -7302,6 +5780,26 @@
         "term": "Sperrbildschirm",
         "Usage": "Preferred",
         "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "35",
+    "Definition": "Only use when technically required, like for OAuth permissions, use “authorize.” Otherwise, use “let.”",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "authorize",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "autorisieren",
+        "Usage": "Preferred",
+        "POS": "Verb"
       }
     ]
   },
@@ -7530,6 +6028,26 @@
     ]
   },
   {
+    "ID": "36",
+    "Definition": "Only use when technically required, like for OAuth permissions, use “authorize.” Otherwise, use “let.”",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "authorized",
+        "Usage": "Preferred",
+        "POS": "Adjective"
+      },
+      {
+        "lang": "de-DE",
+        "term": "autorisiert",
+        "Usage": "Preferred",
+        "POS": "Adjective"
+      }
+    ]
+  },
+  {
     "ID": "360",
     "Definition": "Entering a user account by using the combination of a user's identification and password.",
     "Feature": "Other",
@@ -7701,7 +6219,7 @@
     "ID": "366",
     "Definition": "[field label] \"Common Settings\"; also Spaces are designated areas in the Studio to organize and manage content that needs to be made available to specific users. Spaces are similar to departments of your organization, headed by the respective department heads and in this case, headed by the space administrators.",
     "Feature": "Spaces",
-    "Comment": "",
+    "Comment": "It's der Space in German.",
     "Terms": [
       {
         "lang": "en-US",
@@ -7772,6 +6290,26 @@
       {
         "lang": "de-DE",
         "term": "Staffbase Companion",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "37",
+    "Definition": "The circular icon containing a user's initials, profile image or status.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "avatar",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Avatar",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -8002,6 +6540,26 @@
     ]
   },
   {
+    "ID": "38",
+    "Definition": "button label: returns user to previous screen. Do not use to replace \"Cancel\"",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "back",
+        "Usage": "Preferred",
+        "POS": "Adverb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Zurück",
+        "Usage": "Preferred",
+        "POS": "Adverb"
+      }
+    ]
+  },
+  {
     "ID": "380",
     "Definition": "Use this when talking about reaching a specific group of users with notifications or content with a campaign or reach goal in mind. Content “visibility” describes rather anyone with access to the content, but “target audience” the subset of users who content creators are actively trying to reach.",
     "Feature": "Other",
@@ -8198,6 +6756,26 @@
         "term": "entsperren",
         "Usage": "Preferred",
         "POS": "Verb"
+      }
+    ]
+  },
+  {
+    "ID": "39",
+    "Definition": "Reusable pieces of content used in editors",
+    "Feature": "Other",
+    "Comment": "Proposed",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "block",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Schnellbaustein",
+        "Usage": "Preferred",
+        "POS": "Noun"
       }
     ]
   },
@@ -8402,6 +6980,46 @@
     ]
   },
   {
+    "ID": "4",
+    "Definition": "Allows users to acknowledge that this post has been read. Typically, the acknowledgment feature is used for mandatory information that needs to be acknowledged by the user that it was read. For example, security-relevant information.",
+    "Feature": "News",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "acknowledgement",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Lesebestätigung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "40",
+    "Definition": "You can also set a publishing freeze for the timeframe. The publishing freeze will suggest that editors consider rescheduling their posts, both in the editorial calendar and the Studio news editor.",
+    "Feature": "Editorial calendar",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "publishing freeze",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Sperrfrist",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
     "ID": "400",
     "Definition": "Avoid if possible, especially outside of the Studio. We still need to use “user” when referring to permissions and roles, but calling customers and their employees “users” or “end-users” can be impersonal and makes it sound like we think of them as objects, not people. What you use will depend on the context, but prefer “employees”, “participants” (for surveys, events, etc.), “others” (for example, “others in this channel”), or just “people",
     "Feature": "Other",
@@ -8596,6 +7214,26 @@
       {
         "lang": "de-DE",
         "term": "in Kleinbuchstaben",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "41",
+    "Definition": "The colors of a company's brand used for branding the app accordingly",
+    "Feature": "Customization",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "branding color",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Markenfarbe",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -8826,6 +7464,38 @@
     ]
   },
   {
+    "ID": "42",
+    "Definition": "Program to allow people to view and browse web pages. When accessing Staffbase’s web app from mobile, refer to the ‘mobile browser’ not the app.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "browser",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "en-US",
+        "term": "",
+        "Usage": "",
+        "POS": ""
+      },
+      {
+        "lang": "de-DE",
+        "term": "Browser",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Internetbrowser",
+        "Usage": "Permissible",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
     "ID": "420",
     "Definition": "A webpage is a document on the Web that is accessed in a web browser.[1] A website typically consists of many web pages linked together under a common domain name.",
     "Feature": "Other",
@@ -9025,6 +7695,38 @@
         "lang": "de-DE",
         "term": "Beschriftung",
         "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "43",
+    "Definition": "Clickable page component.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "button",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "en-US",
+        "term": "",
+        "Usage": "",
+        "POS": ""
+      },
+      {
+        "lang": "de-DE",
+        "term": "Schaltfläche",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Button",
+        "Usage": "Forbidden",
         "POS": "Noun"
       }
     ]
@@ -9230,6 +7932,26 @@
     ]
   },
   {
+    "ID": "44",
+    "Definition": "Different features for planning content or creating scheduled quizzes.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "calendar",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Kalender",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
     "ID": "440",
     "Definition": "Quick blocks in a content editor are pre-designed, reusable components that allow users to easily insert complex elements or functions, like image/text columns, rating stars, social media links, etc.",
     "Feature": "Email",
@@ -9242,20 +7964,8 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "public area",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "Schnellbaustein",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Öffentlicher Bereich",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9274,22 +7984,10 @@
         "POS": "Past participle"
       },
       {
-        "lang": "en-US",
-        "term": "campaign details",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "aktualisiert",
         "Usage": "Preferred",
         "POS": "Past participle"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Kampagnenüberblick",
-        "Usage": "Preferred",
-        "POS": "Noun"
       }
     ]
   },
@@ -9306,22 +8004,10 @@
         "POS": "Past participle"
       },
       {
-        "lang": "en-US",
-        "term": "search results",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "bearbeitet",
         "Usage": "Preferred",
         "POS": "Past participle"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Suchergebnisse",
-        "Usage": "Preferred",
-        "POS": "Noun"
       }
     ]
   },
@@ -9338,20 +8024,8 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "post",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "Video-Statistiken",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Post",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9370,20 +8044,8 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "post",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "Branding",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "posten",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9402,20 +8064,8 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "caption",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "erforderliches Feld",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Bildunterschrift",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9434,20 +8084,8 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "alt text",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "Eingabefeld",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Alt-Text",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9466,20 +8104,8 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "quarterly",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "regelbasiert",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "quartalsweise",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9498,20 +8124,8 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "file type",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "Lesezeichen",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Dateiformat",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9530,20 +8144,28 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "blocker freeze",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "Kontoinformationen",
         "Usage": "Preferred",
         "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "45",
+    "Definition": "The Calendars plugin allows you to create one or more calendars for your users directly within the app.",
+    "Feature": "Calendars",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "calender plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
       },
       {
         "lang": "de-DE",
-        "term": "Sperr-Blocker",
+        "term": "Kalender-Plugin",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9562,20 +8184,8 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "characters",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "Einmalpasswort",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Zeichen",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9594,20 +8204,8 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "breadcrumb",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "Nutzerkennung",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Breadcrumb",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9626,22 +8224,10 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "reset",
-        "Usage": "Preferred",
-        "POS": "Verb"
-      },
-      {
         "lang": "de-DE",
         "term": "Zustimmung",
         "Usage": "Preferred",
         "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "zurücksetzen",
-        "Usage": "Preferred",
-        "POS": "Verb"
       }
     ]
   },
@@ -9658,20 +8244,8 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "attachment",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "Zustimmungsbefragung",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Anhang",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9690,20 +8264,8 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "credentials",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "Screens",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Anmeldedaten",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9722,20 +8284,8 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "Terms of Service",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "Geräteverwaltung",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Nutzungsbedingungen",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9754,20 +8304,8 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "Privacy Policy",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "Code",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Datenschutzerklärung",
         "Usage": "Preferred",
         "POS": "Noun"
       }
@@ -9775,70 +8313,6 @@
   },
   {
     "ID": "457",
-    "Definition": "",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "opt out",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "yet",
-        "Usage": "Preferred",
-        "POS": "Adverb"
-      },
-      {
-        "lang": "de-DE",
-        "term": "abwählen",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "noch",
-        "Usage": "Preferred",
-        "POS": "Adverb"
-      }
-    ]
-  },
-  {
-    "ID": "458",
-    "Definition": "",
-    "Feature": "Other",
-    "Comment": "",
-    "Terms": [
-      {
-        "lang": "en-US",
-        "term": "uncheck",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "en-US",
-        "term": "details",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "abwählen",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Bilddaten",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      }
-    ]
-  },
-  {
-    "ID": "459",
     "Definition": "All updates and notifications that users would receive via push or email notification, with the exception of chat notifications, appear in the Notification Center in the top nav bar of the employee app. There they can manually manage read and unread notifications at any time. They will receive updates in the notification center in the following cases: Posts published with a push or email notification (including surveys and journey steps), Comments to posts you have published, Direct replies to your comments",
     "Feature": "Menu",
     "Comment": "",
@@ -9850,27 +8324,15 @@
         "POS": "Noun"
       },
       {
-        "lang": "en-US",
-        "term": "file type",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
         "lang": "de-DE",
         "term": "Benachrichtigungscenter",
-        "Usage": "Preferred",
-        "POS": "Noun"
-      },
-      {
-        "lang": "de-DE",
-        "term": "Dateityp",
         "Usage": "Preferred",
         "POS": "Noun"
       }
     ]
   },
   {
-    "ID": "460",
+    "ID": "458",
     "Definition": "Part of strategic planning: Create a story to provide strategic guidance on your content. Define the subject, purpose, and audience for your content. You can create a record that's available to stakeholders and link the content.",
     "Feature": "Planning",
     "Comment": "",
@@ -9884,6 +8346,2598 @@
       {
         "lang": "de-DE",
         "term": "Storys",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "459",
+    "Definition": "The public area is the part of your app that will be visible to users prior to login. This a great place to showcase information that’s meant for a broader target group; for example, customers, partners, and potential employees. You can use this space proactively for your public-facing communication efforts. Many Staffbase customers use the public area to share job postings, press releases, and other marketing material suitable for a public audience.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "public area",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Öffentlicher Bereich",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "46",
+    "Definition": "Feature that allows strategic planning, creation, mangement, and analysis of content.",
+    "Feature": "Campaigns",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Campaign",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Kampagne",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "460",
+    "Definition": "A detailed view of a campaign.",
+    "Feature": "Campaigns",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "campaign details",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Kampagnenüberblick",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "461",
+    "Definition": "Search results are the outcomes generated by a search engine or search function in response to a user's query. These results aim to provide relevant information based on the keywords or phrases entered by the user.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "search results",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Suchergebnisse",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "462",
+    "Definition": "social media posts in External content",
+    "Feature": "External content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "post",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Post",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "463",
+    "Definition": "the action of posting content to social media in External content",
+    "Feature": "External content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "post",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "posten",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      }
+    ]
+  },
+  {
+    "ID": "464",
+    "Definition": "A brief description of an image.",
+    "Feature": "Files",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "caption",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Bildunterschrift",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "465",
+    "Definition": "The alt attribute is the HTML attribute used to specify alternative text (alt text) that is to be displayed in place of an element that cannot be rendered. It is used to increase accessibility and user friendliness, including for visually impaired internet users who rely on special software for web browsing.",
+    "Feature": "Files",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "alt text",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Alt-Text",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "466",
+    "Definition": "Menu item for selecting a data range of the last quarter.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "quarterly",
+        "Usage": "Preferred",
+        "POS": "Adverb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "quartalsweise",
+        "Usage": "Preferred",
+        "POS": "Adverb"
+      }
+    ]
+  },
+  {
+    "ID": "467",
+    "Definition": "Specifies the exact way information is encoded for storage in a computer file. File format is often indicated by the file's extension (like .jpg, .mp4, .docx, .pdf). It defines the structure and type of data stored in the file, which software can open it, and how it is read and edited. For example, both PNG and JPEG are file formats for the image file type; they store graphical data differently and support different features (like lossless compression in PNG and lossy compression in JPEG).",
+    "Feature": "Files",
+    "Comment": "Established term in English although it would be more accurate to use \"file format\".",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "file type",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Dateiformat",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "468",
+    "Definition": "Additional option for a blocker that notifies editors to consider rescheduling their posts, both in the editorial calendar and the Studio news editor for the time of the blocker freeze.",
+    "Feature": "Planning",
+    "Comment": "Replaces \"Publishing Freeze\". DE not final.",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "blocker freeze",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Sperr-Blocker",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "469",
+    "Definition": "Any form of number characters and letters aka aphanumericals. Often used to mention a limitation to it in text input fields, like \"max. 120 character\".",
+    "Feature": "Planning",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "characters",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Zeichen",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "47",
+    "Definition": "Use to negate the primary action. It is okay to use other terms if it better explains the negative action.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "cancel",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Abbrechen",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      }
+    ]
+  },
+  {
+    "ID": "470",
+    "Definition": "A single link in a chain indicating the hierarchical location of a directory, web page or similar, used as a navigation aid, e.g. Home > News > Berlin News.",
+    "Feature": "Menu",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "breadcrumb",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Breadcrumb",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "471",
+    "Definition": "Setting one or more filters back to their default setting. This is opposed to \"Clear All/Alle entfernen\" users can select within a dropdown when selecting filter options.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "reset",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "zurücksetzen",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      }
+    ]
+  },
+  {
+    "ID": "472",
+    "Definition": "Files that are added to an email and don't appear in the message itself. They are sent along and can be downloaded to view.",
+    "Feature": "Email",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "attachment",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Anhang",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "473",
+    "Definition": "Username and (one-time) passwort that user need to sign into their account. Admins can change user names in the User settings or start the recovery process for passwords.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "credentials",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Anmeldedaten",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "474",
+    "Definition": "The legal agreement between Staffbase as a service provider and a person who wants to use that service.",
+    "Feature": "System",
+    "Comment": "Find the most current version in our web page https://staffbase.com/en/terms/",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Terms of Service",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Nutzungsbedingungen",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "475",
+    "Definition": "A legal document that discloses all of the ways Staffbse gathers, uses, discloses, and manages customer data.",
+    "Feature": "System",
+    "Comment": "Find most current version on our web page https://staffbase.com/en/privacy-policy/",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Privacy Policy",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Datenschutzerklärung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "476",
+    "Definition": "Used in empty state messages when users have not taken any action or entered any data that would normally show in the expected area. This considers that the mostly likely use case is that user is encountering the empty state for the first time; though there is also the possibity that the user entered the data and then subsequently deleted it.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "yet",
+        "Usage": "Preferred",
+        "POS": "Adverb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "noch",
+        "Usage": "Preferred",
+        "POS": "Adverb"
+      }
+    ]
+  },
+  {
+    "ID": "477",
+    "Definition": "The image data that, for example, can be edited in the picture galleries in news posts, like Title, Alt text and also the displayed image section. ",
+    "Feature": "Files",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "details",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Bilddaten",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "478",
+    "Definition": "This constitutes only the kind of data, e.g. video, text, audio. In German we are more exact and make a distinction between \"file format\" and \"file type\".",
+    "Feature": "Files",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "file type",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Dateityp",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "479",
+    "Definition": "A period of time that can have a specific end and start date or a time frame like \"last month\", \"last year\", etc. Usually used to sort data, e.g., in analytics.",
+    "Feature": "Analytics",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "time frame",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "en-US",
+        "term": "",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Zeitraum",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Zeitrahmen",
+        "Usage": "Forbidden",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "48",
+    "Definition": "Record of user account activities.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "changelog",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Änderungsprotokoll",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "480",
+    "Definition": "An unpublished Channel, Post or Page can be published again at a later point in time.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "republish",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "erneut veröffentlichen",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      }
+    ]
+  },
+  {
+    "ID": "481",
+    "Definition": "A mathematical object used to count, measure, and label. One of the character types for setting up a password. ",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "number",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Ziffer",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "482",
+    "Definition": "A character that is neither a letter nor a number. One of the character types for setting up a password. ",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "symbol",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Sonderzeichen",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "483",
+    "Definition": "Different kinds of characters used for setting up a password. Can be lowercase letters, uppercase letters, numbers, and symbols.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "character types",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Zeichearten",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "484",
+    "Definition": "When a user signs into the Employee App on a device (mobile or web), a new session starts. As long as the session is active, the user remains signed in. To enhance security, you can limit the number and duration of sessions. This helps reduce the risk of third parties accessing internal data if a device is lost or stolen.",
+    "Feature": "System",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "session timeout",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Sitzungsdauer",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "485",
+    "Definition": "When a user signs into the Employee App on a device (mobile or web), a new session starts. As long as the session is active, the user remains signed in. Number and duration of sessions can be limited. This helps reduce the risk of third parties accessing internal data if a device is lost or stolen.",
+    "Feature": "System",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "session",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Sitzung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "486",
+    "Definition": "A feature to sign out all users from all sessions including the user triggering the action. Needs to be confirmed by manually typing \"SIGN OUT ALL <COMPANY> USERS\" into the confirmation modal.",
+    "Feature": "System",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "global user sign-out",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Unternehmensweite Abmeldung aller Nutzer",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "487",
+    "Definition": "A click map shows which links in an email where clicked the most. Users can also compare how different links performed on desktop and mobile. It uses a color gradient to show the percentage of clicks, like in a heat map.",
+    "Feature": "Email",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "click map",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Klickkarte",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "488",
+    "Definition": "A metric that shows how many unregistred users accessed content in the Public Area.",
+    "Feature": "Analytics",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Public Area Tracking",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Tracking des öffentlichen Bereichs",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "489",
+    "Definition": "A social media account like for LinkedIn or Instagram that can be connected to our Studio to post content from there to the social media platform.",
+    "Feature": "External content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "account",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Account",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "49",
+    "Definition": "A channel is like a news segment in a newspaper or, in this case, the news page. Channels allow very fine, granular visibility settings as to who is allowed to see the posts within a specific channel in the app. \nSee \"post/news post\", as channels allow for specific types of posts. They're based on both theme and post-type.",
+    "Feature": "News",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "channel",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Kanal",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "490",
+    "Definition": "",
+    "Feature": "",
+    "Comment": "Needs definition to differentiate from time frame.",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "time range",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Zeitspanne",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "491",
+    "Definition": "A record or log of changes made to a page, file, email or any other digital asset over time. It typically includes information about each version, such as when the changes were made, who made them, and sometimes a note of the modifications. Version history allows users to track and review previous versions, revert to an earlier state if needed, and manage the development or editing process more effectively.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "version history",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Versionsverlauf",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "492",
+    "Definition": "Recovery links are sent via email and can be requested by users to reset their password.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "recovery link",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Wiederherstellungslink",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "493",
+    "Definition": "An update note has to be added whenever a file in the file manager is replaced. All the uses across content and Studio will be replaced. The note indicates why a file has been replaced and appears in its version history.",
+    "Feature": "Files",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "update note",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Änderungsvermerk",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "494",
+    "Definition": "A single comment including all its replies in the collaboration feature of the content editor. ",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "thread",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Gesprächsverlauf",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "495",
+    "Definition": "In External content, studio users can create channels to connect platforms that are not natively supported like company blogs.",
+    "Feature": "External content",
+    "Comment": "For the first release, custom channels can only be used to create a post and schedule it in the editorial calendar. They can't be used to publish a post directly to the platform and thus content needs to be copied and pasted to that platform's content editor.",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "custom channel",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "benutzerdefinierter Kanal",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "496",
+    "Definition": "For user management via CSV import and for syncing directories via Entra ID as email recipients, mapping allows studio users to match categories/headers of external sources with studio ones. For example, if a CSV file with user data is imported that uses \"User ID\" as a category, it can be mapped to Staffbase's \"Identifier\".",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "mapping",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "en-US",
+        "term": "",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Dateizuordnung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Zuordnung",
+        "Usage": "Permissible",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "497",
+    "Definition": "For user management via CSV import and for syncing directories via Entra ID as email recipients, mapping allows studio users to match categories/headers of external sources with studio ones. For example, if a CSV file with user data is imported that uses \"User ID\" as a category, it can be mapped to Staffbase's \"Identifier\".",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "map to",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "entsprechen",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      }
+    ]
+  },
+  {
+    "ID": "498",
+    "Definition": "A list of data that can imported/exported/live synced to Studio to manage user data.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "directory",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Verzeichnis",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "499",
+    "Definition": "Connectors act as intermediaries that automatically consume APIs or web service protocols to establish communication between a plugin installed in Staffbase and a widely used external system it is integrated with. The connector should be usually set up by the IT team in your organization so that the admin can easily connect the plugin to their respective system.",
+    "Feature": "System",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "connector",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Konnektor",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "5",
+    "Definition": "[posts] column header - Indicates additional options, such as Edit and Delte;\" also used as a tooltip for an elipses (...) in a cloumn that indicates more options.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "actions",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Optionen",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "50",
+    "Definition": "For different graphical depictions of data in analytics",
+    "Feature": "Analytics",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "chart",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Diagramm",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "500",
+    "Definition": "Microsoft terminology for applications. Use only in connection with MS products.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "application",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Anwendung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "501",
+    "Definition": "Microsoft terminology. An identification key for setting up integrations like Entra ID.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "client secret",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "en-US",
+        "term": "",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "geheimer Client-Schlüssel",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Client-Geheimnis",
+        "Usage": "Permissible",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "502",
+    "Definition": "Staffbase's Support Portal that provides support articles for most features and functionalities of our products in both English and German.",
+    "Feature": "Other",
+    "Comment": "Japanese will probably be added soon.",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Support Portal",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Support-Portal",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "503",
+    "Definition": "Email templates help ensure consistency and make creating emails faster.",
+    "Feature": "Email",
+    "Comment": "Later they can be organzied in collections.",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "template",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Vorlage",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "504",
+    "Definition": "Malware is malicious software designed to harm, exploit, or disable computers, networks, or systems. It includes viruses, worms, Trojans, ransomware, spyware, and other harmful programs that can steal data, disrupt operations, or gain unauthorized access to systems. The Staffbase platform implements a malware scanner for uploads to all core functions of the App. All files under 100 Megabytes are automatically scanned for malicious code during the upload process. If your upload has been cancelled, it is because malicious code was detected.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "malware",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Schadsoftware",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "505",
+    "Definition": "Identifier for Plugins that can be retrieved from the URL of the Plugin in Studio (last part after /) and needed to identify a plugin that is used in a widget.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Plugin ID",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Plugin-ID",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "506",
+    "Definition": "An extension that allows Microsoft's AI Chatbot \"Copilot\" to retrieve information from the Staffbase environment within MS Teams.",
+    "Feature": "System",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Staffbase Copilot agent",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Staffbase-Erweiterung für Copilot",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "507",
+    "Definition": "In the Entra ID integration, contacts that exhibit certain mapped data fields can be excluded from synchronisation.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Exclusion rule",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Ausschlussregel",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "508",
+    "Definition": "A screen lock is a security feature that prevents unauthorized access to a device by requiring a PIN, password, pattern, fingerprint, or facial recognition to unlock the screen.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "screen lock",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Bildschirmsperre",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "509",
+    "Definition": "A screen displayed by a computer or mobile device left unattended, requiring the user to perform a certain action to regain access.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "lock screen",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Sperrbildschirm",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "51",
+    "Definition": "The alternative point of contact listed for customers after \"Staffbase Support\" in support articles",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Account Manager",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "510",
+    "Definition": "Apple iOS terminology for a password that can be used to unlock the the phone or a passkey.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "passcode",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Code",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "511",
+    "Definition": "News posts and emails can be assigned to a campaign to group, track, and analyze strategic content. To remove the assignment, they can be \"unassigned\".",
+    "Feature": "Campaigns",
+    "Comment": "In German also \"Zuweisung aufheben\" has been used. As this is too long for buttons, etc., we're going with \"entfernen\".",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "unassign",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "en-US",
+        "term": "employee app",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "entfernen",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Mitarbeiter-App",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "512",
+    "Definition": "Strategic Planning provides a clear, organized view of your campaigns and their assigned news posts. This allows you to effectively monitor your overall communication strategy.",
+    "Feature": "Planning",
+    "Comment": "Capitalize \"Strategische\" in German.",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Strategic Planning",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "en-US",
+        "term": "primary",
+        "Usage": "Preferred",
+        "POS": "Adjective"
+      },
+      {
+        "lang": "en-US",
+        "term": "",
+        "Usage": "",
+        "POS": ""
+      },
+      {
+        "lang": "de-DE",
+        "term": "Strategische Planung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "primär",
+        "Usage": "Permissible",
+        "POS": "Adjective"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Primär...",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "513",
+    "Definition": "The \"studio behind the studio\" where customer care manager can set-up a customers product and activate/deactivate features.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Customer Control",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "en-US",
+        "term": "secondary",
+        "Usage": "Preferred",
+        "POS": "Adjective"
+      },
+      {
+        "lang": "en-US",
+        "term": "",
+        "Usage": "",
+        "POS": ""
+      },
+      {
+        "lang": "de-DE",
+        "term": "Customer Control",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "sekundär",
+        "Usage": "Permissible",
+        "POS": "Adjective"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Sekundär...",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "514",
+    "Definition": "Used in Branding to distinguish the primary (main) color or font of an organization from their second or third.",
+    "Feature": "Platform Setup",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "tertiary",
+        "Usage": "Preferred",
+        "POS": "Adjective"
+      },
+      {
+        "lang": "en-US",
+        "term": "",
+        "Usage": "",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "tertiär",
+        "Usage": "Permissible",
+        "POS": "Adjective"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Tertiär...",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "515",
+    "Definition": "Used to refer to actions that have a system-wide or organization-wide effect, such as a global user sign-out.",
+    "Feature": "",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "global",
+        "Usage": "Preferred",
+        "POS": "Adjective"
+      },
+      {
+        "lang": "en-US",
+        "term": "globally",
+        "Usage": "Preferred",
+        "POS": "Adverb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "unternehmensweit",
+        "Usage": "Preferred",
+        "POS": "Adjective"
+      },
+      {
+        "lang": "de-DE",
+        "term": "systemweit",
+        "Usage": "Preferred",
+        "POS": "Adjective"
+      }
+    ]
+  },
+  {
+    "ID": "516",
+    "Definition": "When replacing a file in file manager there is a tab for File usage that shows in what content a file is used.",
+    "Feature": "Files",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "file usage",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Dateiverwendung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "517",
+    "Definition": "The act of sharing or publishing content that has already been shared or published by someone else. A repost typically involves redistributing the original content with or without additional commentary, attribution to the original source, or modifications, depending on the platform's norms or rules. The number of repost can be measure for regular News post for instance.",
+    "Feature": "",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "repost",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Repost",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "518",
+    "Definition": "An impression is counted each time content like a post appears in the feed of a user. For example, scrolling away and back to the same post counts as 1 impression, while seeing the post twice in a day in different places counts as 2 impressions. An impression doesn't necessarily mean that the content has been \"consumed\", e.g. a post been read or a video been played. This is used for posts in External Content.",
+    "Feature": "External content",
+    "Comment": "May slightly change and could potentially also be used for \"internal\" content.",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "impressions",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Impressionen",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "519",
+    "Definition": "Breadcrumbs are a navigational aid in user interfaces. They allow users to keep track of their location within your internal communications platform. Based on the menu structure, it shows the browsing position of the user within your content, no matter if they are on a news post, page, or elsewhere. Users know at a glance where they are within your platform. Breadcrumbs are available for the web app and most content types. Breadcrumbs are not available for bookmarks, chat, employee directory, Experience Studio, settings, and user profile.",
+    "Feature": "System",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Breadcrumb Navigation",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Breadcrumb-Navigation",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "52",
+    "Definition": "The menu that opens when a user clicks their avatar in the standalone Employee Email web app",
+    "Feature": "Email",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "account settings",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Kontoeinstellungen",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "53",
+    "Definition": "The address bar of a browser.",
+    "Feature": "Email",
+    "Comment": "Proposed",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "address bar",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Adressleiste",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "54",
+    "Definition": "The way an Employee Email add-in or extension tracks unique vs. repeat opens and clicks",
+    "Feature": "Email",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "aggregate",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "55",
+    "Definition": "E.g., when a notifcation informs the user about something.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "alert",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "en-US",
+        "term": "",
+        "Usage": "",
+        "POS": ""
+      },
+      {
+        "lang": "de-DE",
+        "term": "informieren",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "warnen",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      }
+    ]
+  },
+  {
+    "ID": "56",
+    "Definition": "Numbers and letters in a CSV file or data table ",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "alphanumeric characters",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "alphanumerische Zeichen",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "57",
+    "Definition": "An integration enriches or extends the functionalities within the Staffbase platform. This is done by either extending the functionalities in your employee app or intranet, or in the Studio. For example: linking or embedding external content, embedding login-protected external content, synchronizing content to and from an external source, making external applications or processes available within your employee app or intranet automating user lifecycle management\"",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "integration",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Integration",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "58",
+    "Definition": "The UI of our app.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "app interface",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "App-Oberfläche",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "59",
+    "Definition": "The tab of the Email Stats Page where you can segment engagement data for an individual sent email",
+    "Feature": "Email",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "breakdown",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "6",
+    "Definition": "To put an option, mechanism (toggle, etc.) or system into action. Can also be used with a variety for other terms, like \"users\", \"access, \"permissions\", \"settings\", and so forth.",
+    "Feature": "Other",
+    "Comment": "We don't use enable anymore to avoid ableist language.",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "activate",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "en-US",
+        "term": "enable",
+        "Usage": "Forbidden",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "aktivieren",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "",
+        "Usage": "",
+        "POS": ""
+      }
+    ]
+  },
+  {
+    "ID": "60",
+    "Definition": "Opened tabs inside a browser window",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "browser tab",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Browser-Tab",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "61",
+    "Definition": "Distribution lists uploaded via CSV or customized with the Employee Email web app ",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "distribution list",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Verteilerliste",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "62",
+    "Definition": "Distribution lists containing a set of contacts that changes automatically over time based on their attributes.",
+    "Feature": "User management",
+    "Comment": "Proposed",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "dynamic distribution lists",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "dynamische Verteilerliste",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "63",
+    "Definition": "Customizable and reusable rough copies of an email.",
+    "Feature": "User management",
+    "Comment": "Proposed",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "email template",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "E-Mail-Vorlage",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "64",
+    "Definition": "Files created and saved using the Email Designer that have not been sent out as emails yet",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "email draft",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "E-Mail-Entwurf",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "65",
+    "Definition": "Staffbase offers data centers in different countries to host your platform and data. In the Studio, you can check where your platform is hosted and your platform's base URL that you need to use for API authentication.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "hosting infrastructure",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Hosting-Infrastruktur",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "66",
+    "Definition": "Refers to the place of a data center where a costumers platform and data is stored.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "host",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "hosten",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      }
+    ]
+  },
+  {
+    "ID": "67",
+    "Definition": "people who use Staffbase on iOS and Android devices",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "mobile user",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "mobile Nutzer",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "68",
+    "Definition": "In studio, refers to top nav bar. In mobile, to quicklings bar at the buttom.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "navigation bar",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Navigationsleiste",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "69",
+    "Definition": "A news page is like a newspaper or a social network, where new content is regularly published. The latest posts are always displayed at the top, which is why older posts gradually disappear from the newsfeed and the user’s radar. This means that the content has a short to medium lifespan.",
+    "Feature": "News",
+    "Comment": "Suggestion: renaming to News-Seite",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "news page",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Newsseite",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "7",
+    "Definition": "Use activation when a change immediately takes effect. If you are giving someone the possibility to do something (such as turning on the ability for users to delete their chat messages), use enable/disable instead.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "activation",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Aktivierung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "70",
+    "Definition": "A profile picture makes a user profile more personal and helps new employees find their way around faster.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "profile picture",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Profilbilder",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "71",
+    "Definition": "Metric used to track how long an email is held open by recipients.",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "read time",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "72",
+    "Definition": "The setting available when Shared views are enabled, allowing members of the same Group to either share or not share their Email Drafts by default",
+    "Feature": "Email",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "shared drafts",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "73",
+    "Definition": "The setting available when Shared views are enabled, allowing members of the same Group to either share or not share their sent emails by default",
+    "Feature": "Email",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "shared emails",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "74",
+    "Definition": "The setting that allows members of the same Group to automatically share their sent emails and/or their Email Drafts by default",
+    "Feature": "Email",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "shared views",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "75",
+    "Definition": "The main menu of the mobile ios app",
+    "Feature": "Other",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "sidebar",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "seitliches Menü",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "76",
+    "Definition": "You can add a blocker within the editorial calendar to include important company plans or communications. Blockers are visible to all editors.",
+    "Feature": "Editorial calendar",
+    "Comment": "DE: plural: \"Blocker\", dativ: \"Blockern\", gender: masculine",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "blocker",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Blocker",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "77",
+    "Definition": "For refering to the log in to different accounts like for employees, Google, SSO, etc.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "sign in",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "en-US",
+        "term": "log in",
+        "Usage": "Forbidden",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "anmelden",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "",
+        "Usage": "",
+        "POS": ""
+      }
+    ]
+  },
+  {
+    "ID": "78",
+    "Definition": "For refering to the log in to different accounts like for employees, Google, SSO, etc.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "sign-in",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "en-US",
+        "term": "log-in",
+        "Usage": "Forbidden",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Anmeldung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "",
+        "Usage": "",
+        "POS": ""
+      }
+    ]
+  },
+  {
+    "ID": "79",
+    "Definition": "For refering to the log out to different accounts like for employees, Google, SSO, etc.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "sign out",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "en-US",
+        "term": "log out",
+        "Usage": "Forbidden",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "abmelden",
+        "Usage": "Preferred",
+        "POS": "Verb"
+      },
+      {
+        "lang": "de-DE",
+        "term": "",
+        "Usage": "",
+        "POS": ""
+      }
+    ]
+  },
+  {
+    "ID": "8",
+    "Definition": "[Dashboard and analytics] An active user is a user that has accessed the App at least once during a selected date range. See \"engaged user.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "active user",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "aktiver Nutzer",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "80",
+    "Definition": "For refering to the log out to different accounts like for employees, Google, SSO, etc.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "sign-out",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "en-US",
+        "term": "log-out",
+        "Usage": "Forbidden",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Abmeldung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "81",
+    "Definition": "Percentage of total Opens where Read Time = 3-8 seconds (inclusive)",
+    "Feature": "Email",
+    "Comment": "proposed",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "skimmed",
+        "Usage": "Preferred",
+        "POS": "Past participle"
+      },
+      {
+        "lang": "de-DE",
+        "term": "überflogen",
+        "Usage": "Preferred",
+        "POS": "Past participle"
+      }
+    ]
+  },
+  {
+    "ID": "82",
+    "Definition": "Distribution lists containing a set of contacts that doesn't change.",
+    "Feature": "User management",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "static distribution list",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "statische Verteilerliste",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "83",
+    "Definition": "The Directory plugin allows you to create a directory of all active and pending users in your employee app. Using the Directory plugin, employees can access coworker's contact details, such as their phone number, email, or company role, if filled out in the user profile. In addition, users can also see a list of the most recent comments by the respective coworker.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Directory plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Verzeichnis-Plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "84",
+    "Definition": "The Chat plugin allows private one-on-one or group messaging within the app.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Chat plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Chat-Plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "85",
+    "Definition": "Surveys make it easy for users to engage and helps you gain valuable user insights on a regular basis. You can choose between a regularly scheduled survey rhythm, which allows you to gather insights on one topic over time, or a one-time survey.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Surveys plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Plugin für Befragungen",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "86",
+    "Definition": "With the Forms plugin, you can create customized forms for users to fill out and submit via the employee app. You can customize the contents, input types, and required fields to create a form that fits your needs perfectly.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Forms plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Plugin für Formulare",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "87",
+    "Definition": "The Quiz Calendar is a fun way for your company to engage users leading up to significant company events, milestones, or the holidays. You can set up custom quiz questions, images, or text that your users can unlock each day of the calendar.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Quiz Calender plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Quizkalender-Plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "88",
+    "Definition": "The Links plugin allows you to link to another website and place this link on the menu of your app. The Links plugin creates a bridge between your employee app and an external website, such as your company homepage. Opening a target-link using the Links plugin will navigate the user away from the employee app. For mobile users, the link opens in the mobile browser and for desktop users, it opens in a new tab.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Links plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Links-Plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "89",
+    "Definition": "An embedded page is a link to an external website that opens within your employee app. The link to an embedded page displays as an item in the app menu. When users click on the menu item, the external page will load within the app, as would a normal app page.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Embedded Pages plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Plugin für eingebettete Seiten",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "9",
+    "Definition": "Activity of certain spaces or users",
+    "Feature": "Analytics",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "activity",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Aktivität",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "90",
+    "Definition": "Journeys allows you to guide employees on their individual journey at your organization. Create customized content and set an individual timeline to support employees with their new tasks.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Journeys plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Journeys-Plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "91",
+    "Definition": "The Calendars plugin allows you to create one or more calendars for your users directly within the app. These customizable calendars are a great way to keep employees up to date with company activities and important events. With the Calendars plugin, you can create not only company-wide calendars but also user-specific calendars, which support organization and collaboration within and across departments.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Calendars plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Kalender-Plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "92",
+    "Definition": "The Event Registration plugin allows you to create and manage detailed event registration pages. Add all the important details of an event to your event registration, such as time, date, and place, as well as a thorough description and capacity limit. Users will can see an overview of company events, register for events, and view upcoming and past events directly in the app.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Event Registration plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Plugin für Eventregistrierung",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "93",
+    "Definition": "The Maps plugin allows you to show your users specific locations on a map. The location appears as a pinpoint on the map. You can add a name and detailed description to each location. This enables you to give users access to important data even on the go, such as office, delivery, or store locations.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Maps plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Karten-Plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "94",
+    "Definition": "The Integrated Content plugin allows you to embed content more flexibly into your app and view external websites, while keeping the same look and feel of your app or intranet.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Integrated Content plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Plugin für integrierte Inhalte",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "95",
+    "Definition": "The Facebook Pages plugin allows you to embed a Facebook page in your employee app. This gives you the means to include employees who do not actively use Facebook in the company’s public-facing communications. Users open the embedded Facebook page by clicking on a menu point in the employee app, allowing users to browse the linked Facebook feed without leaving the app.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Facebook plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Facebook-Plugin",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "96",
+    "Definition": "To add any type of static content, in the same design and visual style as that of other widgets, use the Static Content widget. In this way, the content in the static content also has the same layout style options as the other widgets. You can experiment with background colors of this widget or simply choose the branding color of your app.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Static content widget",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Statischer-Inhalt-Widget",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "97",
+    "Definition": "To add contact information outside the employee directory, use the User Profile widget. This is useful if you want to show a contact, for example, on the Contact Us page. If the user profile contains details, such as location, department, job title, and so on, those are displayed.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "User Profile widget",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Nutzerprofil-Widget",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "98",
+    "Definition": "To add a selection of files, use the File List widget. Users can open or download these files. For example, if you have a page on Corporate Social Responsibility, place all related files, such as guidelines, activities planned for the year, and so on, on the file list.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "File List widget",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Dateiliste-Widget",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      }
+    ]
+  },
+  {
+    "ID": "99",
+    "Definition": "To add a box to call attention to particular information, warning, or a tip to your pages, use the Infobox widget. The colored box readily draws users’ attention to the content presented in it.",
+    "Feature": "Content",
+    "Comment": "",
+    "Terms": [
+      {
+        "lang": "en-US",
+        "term": "Infobox widget",
+        "Usage": "Preferred",
+        "POS": "Noun"
+      },
+      {
+        "lang": "de-DE",
+        "term": "Infobox-Widget",
         "Usage": "Preferred",
         "POS": "Noun"
       }
